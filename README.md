@@ -95,4 +95,4 @@ This is **Project 2** of Shashi's AI Engineering portfolio:
 | Project 3 | FastAPI Microservices | 🔜 Coming soon |
 
 ---
-Built by **Shashi Aluru** · [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
+Built by **Shashi Aluru** · [LinkedIn](https://www.linkedin.com/in/shashi-a-know-about-me/))
